@@ -3,4 +3,4 @@ compiler:
   - gcc
   - clang
 # Change this to your needs
-script: gcc test.c && ls
+script: gcc test.c && ls && a.out
